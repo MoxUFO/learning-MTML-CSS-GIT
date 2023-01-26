@@ -1,4 +1,4 @@
-# Heriseon- week 1 Challenge REDME 
+# Heriseon- week 1 Challenge README 
 
 ## The Repository 
 This repository contained the start code i needed to start our first challenge in this coding bootcamp.
